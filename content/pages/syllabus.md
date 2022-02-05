@@ -29,13 +29,84 @@ Due Dates
 
 Due dates for papers, and sections in the syllabus to be covered:
 
-| DUE DATES | SECTIONS COVERED IN ASSIGNMENT | SESSIONS COVERED |
-| --- | --- | --- |
-| One day before Session #6 | II - IV | Sessions #2-7 |
-| One day before Session #10 | V | Sessions #8-11 |
-| Session #13 | VI - VIII  | Sessions #12-17 |
-| One day before Session #19 | IX | Sessions #18-21 |
-| One day before Session #23 | X | Sessions #22-25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+SECTIONS COVERED IN ASSIGNMENT
+{{< thclose >}}
+{{< thopen >}}
+SESSIONS COVERED
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One day before Session #6
+{{< tdclose >}}
+{{< tdopen >}}
+II - IV
+{{< tdclose >}}
+{{< tdopen >}}
+Sessions #2-7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One day before Session #10
+{{< tdclose >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+Sessions #8-11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Session #13
+{{< tdclose >}}
+{{< tdopen >}}
+VI - VIII 
+{{< tdclose >}}
+{{< tdopen >}}
+Sessions #12-17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One day before Session #19
+{{< tdclose >}}
+{{< tdopen >}}
+IX
+{{< tdclose >}}
+{{< tdopen >}}
+Sessions #18-21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One day before Session #23
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+Sessions #22-25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Topics of Sections
 ------------------
